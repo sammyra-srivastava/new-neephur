@@ -148,7 +148,7 @@ const Footer = () => {
   
   
     © 2022 Copyright:
-    <a className="text-white" href="https://mdbootstrap.com/">Neephur</a>
+    <a className="text-white" href="https://mdbootstrap.com/">E-Udayaan</a>
    
   </div>
   
