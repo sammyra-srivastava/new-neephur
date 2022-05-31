@@ -184,15 +184,7 @@ const Home = () => {
                         <h5  class="text-dark">Web Developer</h5>
                         <p class="text-muted">
                           <i class="fas fa-quote-left pe-2"></i>
-                          <span class="text-dark">
-                            In ac turpis justo. Vivamus auctor quam vitae odio
-                            feugiat pulvinar. Sed semper ligula sed lorem
-                            tincidunt dignissim. Nam sed cursus lectus. Proin
-                            non rutrum magna. Proin gravida, justo et imperdiet
-                            tristique, turpis nisi viverra est, nec posuere ex
-                            arcu sit amet erat. Sed a dictum sem. Duis pretium
-                            condimentum nulla.
-                          </span>
+                         
                         </p>
                       </div>
                     </div>
@@ -200,7 +192,7 @@ const Home = () => {
                   <div class="carousel-item">
                     <img
                       class="rounded-circle shadow-1-strong mb-4 mt-4"
-                      src="http://localhost:5000/images/abhishek.jpeg"
+                      src="http://localhost:5000/images/deepak.jpeg"
                       alt="avatar"
                       style={{ width: "150px", height: "150px" }}
                       aria-controls="#picker-editor"
@@ -208,17 +200,11 @@ const Home = () => {
                     />
                     <div class="row d-flex justify-content-center">
                       <div class="col-lg-8">
-                        <h4 class="mb-3 text-dark">Abhishek Gupta</h4>
+                        <h4 class="mb-3 text-dark">Deepak Verma</h4>
                         <h5 class="text-dark">UX/UI Developer</h5>
                         <p class="text-muted">
                           <i class="fas fa-quote-left pe-2"></i>
-                          <span>
-                            Maecenas auctor, quam eget tincidunt pretium, felis
-                            diam semper turpis, sed scelerisque diam libero
-                            facilisis libero. Quisque vitae semper metus.
-                            Aliquam eu dui aliquam, faucibus metus quis,
-                            elementum nunc. .
-                          </span>
+                         
                         </p>
                       </div>
                     </div>
@@ -226,7 +212,7 @@ const Home = () => {
                   <div class="carousel-item">
                     <img
                       class="rounded-circle shadow-1-strong mb-4 mt-4"
-                      src="http://localhost:5000/images/geetanjali.jpeg"
+                      src=""
                       alt="avatar"
                       style={{ width: "150px", height: "150px" }}
                       aria-controls="#picker-editor"
@@ -234,42 +220,11 @@ const Home = () => {
                     />
                     <div class="row d-flex justify-content-center">
                       <div class="col-lg-8">
-                        <h4 class="mb-3 text-dark">Geetanjali Chaubey</h4>
-                        <h5 class="text-dark">Cyber Security Engineer</h5>
-                        <p class="text-muted">
-                          <i class="fas fa-quote-left pe-2"></i>
-                          <span>
-                            Duis sagittis, turpis in ullamcorper venenatis,
-                            ligula nibh porta dui, sit amet rutrum enim massa in
-                            ante. Curabitur in justo at lorem laoreet ultricies.
-                            Nunc ligula felis, sagittis eget nisi vitae.
-                          </span>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <img
-                      class="rounded-circle shadow-1-strong mb-4 mt-4"
-                      src="http://localhost:5000/images/adarsh.jpeg"
-                      alt="avatar"
-                      style={{ width: "150px", height: "150px" }}
-                      aria-controls="#picker-editor"
-                      draggable="false"
-                    />
-                    <div class="row d-flex justify-content-center">
-                      <div class="col-lg-8">
-                        <h5 class="mb-3 text-dark">Adarsh Tripathi</h5>
+                        <h5 class="mb-3 text-dark">Sagar Verma</h5>
                         <p class="text-dark">Photographer</p>
                         <p class="text-muted">
                           <i class="fas fa-quote-left pe-2"></i>
-                          <span>
-                            Maecenas auctor, quam eget tincidunt pretium, felis
-                            diam semper turpis, sed scelerisque diam libero
-                            facilisis libero. Quisque vitae semper metus.
-                            Aliquam eu dui aliquam, faucibus metus quis,
-                            elementum nunc. .
-                          </span>
+                         
                         </p>
                       </div>
                     </div>
