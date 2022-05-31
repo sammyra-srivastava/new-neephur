@@ -165,7 +165,7 @@ const ContactUs = () => {
            </Grid>
            <Grid item xl={15} sx={{mb:2}}>
            <Button variant="text" color="inherit" href="#contained-buttons">
-           neepur@gmail.com
+           e_udayaan@gmail.com
            </Button>
            </Grid>
             </li>

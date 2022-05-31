@@ -212,7 +212,7 @@ const Home = () => {
                   <div class="carousel-item">
                     <img
                       class="rounded-circle shadow-1-strong mb-4 mt-4"
-                      src=""
+                      src="http://localhost:5000/images/abhishek.jpeg"
                       alt="avatar"
                       style={{ width: "150px", height: "150px" }}
                       aria-controls="#picker-editor"
